@@ -1,1 +1,12 @@
-""
+{
+  "teams": [
+    {
+      "name": "Gaspard Tame",
+      "price": 0.0
+    },
+    {
+      "name": "Larry Vière",
+      "price": 0.0
+    }
+  ]
+}
